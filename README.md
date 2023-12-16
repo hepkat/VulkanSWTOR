@@ -8,12 +8,15 @@ Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine - GitHub -
 Download from here:
 https://github.com/doitsujin/dxvk/releases
 
-![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/2fe7e537-8a89-4f0c-903c-24b2b17657da)
+![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/50f6dd88-a828-46bb-8e16-d16d2e39a3a2)
 
-![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/c34fd2d6-d110-4cf3-8f07-e77039b42684)
+
+![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/5f469870-c563-4657-974c-d051968afc2d)
+
 
 Download this one:
-![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/17e4c15e-4f12-4932-b973-0553f8968f35)
+![image](https://github.com/hepkat/VulkanSWTOR/assets/25138984/08680d55-bb41-4b2d-9706-a9932ea125fd)
+
 
 If you need something to extract a Tarball (tar.gz) you can use 7-zip
 https://www.7-zip.org/a/7z2301-x64.msi
